@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "amqplib": "^0.5.1",
+    "express": "^4.15.3",
+    "rabbot": "^1.1.0"
   }
 }

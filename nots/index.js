@@ -1,3 +1,11 @@
+
+const amqplib = require('amqplib');
+
+amqlib.connect('asdf');
+
+const rabbot = require('rabbot');
+rabbot.addConnection({});
+
 const express = require('express');
 const app = express()
 
